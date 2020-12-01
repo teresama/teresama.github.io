@@ -6,7 +6,7 @@ body {
   background-image: linear-gradient(
     to bottom,
     #ffffff 30%,
-    #88d9ff,
+    #28a745,
     #24206c,
     #222 80%
   );
@@ -22,7 +22,7 @@ body.night {
 .blog-entry .text .heading a:hover .night,
 .blog-entry .text .heading a:focus .night,
 .blog-entry .text .heading a:active .night {
-  color: #0075f6;
+  color: #28a745;
 }
 
 .blog-entry .text .heading a.night {
