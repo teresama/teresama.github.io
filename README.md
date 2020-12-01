@@ -14,3 +14,8 @@
 ## License 📄
 
 This project is licensed under the MIT License - checkout the [LICENSE](./LICENSE) file for details
+
+
+## Credits
+
+This website has been built on top of a template from https://github.com/sonusourav 
