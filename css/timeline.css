@@ -248,7 +248,7 @@ header h1 {
 },
 .cd-timeline-content .cd-read-more,
 .cd-timeline-content .cd-date {
-  font-size: 13px;
+  font-size: 10px;
   font-size: 0.8125rem;
 }
 .cd-timeline-content .cd-read-more,
@@ -263,7 +263,7 @@ header h1 {
   float: right;
   padding: 0.4em .7em;
     height: 36px;
-    width: 97px;
+    width: 160px;
     background: #acb7c0;
     color: #ffffff;
     border-radius: 0.25em;
